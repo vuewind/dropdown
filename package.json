@@ -1,6 +1,6 @@
 {
-  "name": "@dillingham/vue-dropdown",
-  "version": "1.0.7",
+  "name": "@vuewind/dropdown",
+  "version": "0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dillingham/vue-dropdown.git"
+    "url": "git+https://github.com/vuewind/dropdown.git"
   },
   "author": "Brian Dillingham",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dillingham/vue-dropdown/issues"
+    "url": "https://github.com/vuewind/dropdown/issues"
   },
-  "homepage": "https://github.com/dillingham/vue-dropdown#readme"
+  "homepage": "https://github.com/vuewind/dropdown#readme"
 }

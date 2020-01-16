@@ -31,6 +31,7 @@ export default {
             this.open = !this.open;
 
             this.$root.$el.classList.toggle('dropdown-open');
+            // TODO: overflow-hidden
         }
     },
     computed: {
